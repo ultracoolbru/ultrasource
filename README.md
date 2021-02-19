@@ -12,8 +12,11 @@ A nicely currated list of websites and resources for everyone to enjoy.
   - D
   - E
   - F
+    - Flutter
+      - https://www.appwithflutter.com/
   - G
-    - [Github Badges](https://dev.to/envoy_/150-badges-for-github-pnk) a list of 150 different badges that can be used in Github much like the ones you see at the end of the README.
+    - Github
+      - [Github Badges](https://dev.to/envoy_/150-badges-for-github-pnk) a list of 150 different badges that can be used in Github much like the ones you see at the end of the README.
   - H
   - I
   - J
