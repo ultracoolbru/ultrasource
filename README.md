@@ -33,6 +33,9 @@ This currated list of websites have been categorised into subject matter areas, 
     - Learning
       - [Morioh](https://morioh.com/) A social network for Programmers and Developers.
   - M
+    - Monetization
+      - [Patreon](https://www.patreon.com) A great platform for creatives to monetize and generate income from the work they do.
+      - [Buy Me a Coffee](https://www.buymeacoffee.com) Another great platform to monetize your work.
   - N
   - O
   - P
