@@ -9,14 +9,18 @@ A nicely currated list of websites and resources for everyone to enjoy.
   - A
   - B
   - C
+    - Creative
+      - https://dribbble.com/
   - D
+    - Development
+      - [Markdown Guide](https://www.markdownguide.org/) A guide on how to create markdown for platforms that support the markup language, like Github.
   - E
   - F
     - Flutter
       - https://www.appwithflutter.com/
   - G
     - Github
-      - [Github Badges](https://dev.to/envoy_/150-badges-for-github-pnk) a list of 150 different badges that can be used in Github much like the ones you see at the end of the README.
+      - [Github Badges](https://dev.to/envoy_/150-badges-for-github-pnk) - a list of 150 different badges that can be used in Github much like the ones you see at the end of the README.
   - H
   - I
   - J
@@ -28,6 +32,8 @@ A nicely currated list of websites and resources for everyone to enjoy.
   - P
   - Q
   - R
+    - Reading
+      - https://medium.com - Medium is a site driven by content created by a vast community of people.
   - S
   - T
   - U
