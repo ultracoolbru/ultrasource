@@ -6,7 +6,34 @@ A nicely currated list of websites and resources for everyone to enjoy.
 1. Websites
 
 # 1. Websites
-- [Github Badges](https://dev.to/envoy_/150-badges-for-github-pnk) - a list of 150 different badges that can be used in Github much like the ones you see at the end of the README.
+  - A
+  - B
+  - C
+  - D
+  - E
+  - F
+  - G
+    - [Github Badges](https://dev.to/envoy_/150-badges-for-github-pnk) a list of 150 different badges that can be used in Github much like the ones you see at the end of the README.
+  - H
+  - I
+  - J
+  - K
+  - L
+  - M
+  - N
+  - O
+  - P
+  - Q
+  - R
+  - S
+  - T
+  - U
+  - V
+  - W
+  - X
+  - Y
+  - Z
+    
 
 [![Buy me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ultracoolbru)
 [![Become a Patron](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/ultracoolbru)
