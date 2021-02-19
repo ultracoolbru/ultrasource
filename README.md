@@ -6,18 +6,22 @@ A nicely currated list of websites and resources for everyone to enjoy.
 1. Websites
 
 # 1. Websites
+
+This currated list of websites have been categorised into subject matter areas, like development, creative or product specific like Github.
+
   - A
   - B
   - C
     - Creative
-      - https://dribbble.com/
+      - [Dribble](https://dribbble.com)
   - D
     - Development
-      - [Markdown Guide](https://www.markdownguide.org/) A guide on how to create markdown for platforms that support the markup language, like Github.
+      - [Markdown Guide](https://www.markdownguide.org) A guide on how to create markdown for platforms that support the markup language, like Github.
+      - [Git Branching](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf) A guide on which of the various branching strategies are availble and which one is best suited for the respective development lifecycles or organisations.
+      - Flutter
+        - [App With Flutter](https://www.appwithflutter.com) General purpose site that offers a number of features releated to development using the Flutter language.
   - E
   - F
-    - Flutter
-      - https://www.appwithflutter.com/
   - G
     - Github
       - [Github Badges](https://dev.to/envoy_/150-badges-for-github-pnk) - a list of 150 different badges that can be used in Github much like the ones you see at the end of the README.
@@ -35,7 +39,7 @@ A nicely currated list of websites and resources for everyone to enjoy.
   - Q
   - R
     - Reading
-      - https://medium.com - Medium is a site driven by content created by a vast community of people.
+      - [Medium](https://medium.com) - Medium is a site driven by content created by a vast community of people.
   - S
   - T
   - U
