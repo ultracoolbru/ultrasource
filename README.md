@@ -15,6 +15,7 @@ This currated list of websites have been categorised into subject matter areas, 
     - Creative
       - [Dribble](https://dribbble.com)
       - [IconScout](https://iconscout.com) Over 2.2 Million+ Design Assets
+      - [Uplabs](https://www.uplabs.com) The #1 place for design files
   - D
     - Development
       - [Markdown Guide](https://www.markdownguide.org) A guide on how to create markdown for platforms that support the markup language, like Github.
