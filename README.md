@@ -14,14 +14,20 @@ This currated list of websites have been categorised into subject matter areas, 
   - C
     - Creative
       - [Dribble](https://dribbble.com)
-      - [IconScout](https://iconscout.com) Over 2.2 Million+ Design Assets
-      - [Uplabs](https://www.uplabs.com) The #1 place for design files
+      - [IconScout](https://iconscout.com) Over 2.2 Million+ Design Assets.
+      - [Uplabs](https://www.uplabs.com) The #1 place for design files.
+      - [Freebies UI](https://freebiesui.com) Loads of free UI resources.
+      - [Scale](https://2.flexiple.com/scale/home) Royalty free Vector Illustrations for Commercial Use.
+      - [UI Store](https://www.uistore.design) Free Handpicked UI Kits for your real life projects.
   - D
     - Development
       - [Markdown Guide](https://www.markdownguide.org) A guide on how to create markdown for platforms that support the markup language, like Github.
       - [Git Branching](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf) A guide on which of the various branching strategies are availble and which one is best suited for the respective development lifecycles or organisations.
       - Flutter
         - [App With Flutter](https://www.appwithflutter.com) General purpose site that offers a number of features releated to development using the Flutter language.
+        - [Flutter Awesome](https://flutterawesome.com) Loads of Flutter resources.
+        - [Its All Widgets](https://itsallwidgets.com) An open list of apps built with Flutter.
+      - [Superbase IO](https://supabase.io) The Open Source Firebase Alternative.
   - E
   - F
   - G
@@ -41,6 +47,8 @@ This currated list of websites have been categorised into subject matter areas, 
   - N
   - O
   - P
+    - Photos
+      - [Unsplash](https://unsplash.com) The internet’s source of freely-usable images.
   - Q
   - R
     - Reading
@@ -49,6 +57,8 @@ This currated list of websites have been categorised into subject matter areas, 
   - T
   - U
   - V
+    - Videos
+      - [Coverr](https://coverr.co) Beautiful Free Stock Video Footage
   - W
   - X
   - Y
